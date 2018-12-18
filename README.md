@@ -8,7 +8,7 @@ List of books and resources to go from not-a-dev to Python web developer
 2. [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707/) (harder)
 
 Also:
-- [Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/ref=sr_1_2?ie=UTF8&qid=1545157737&sr=8-2&keywords=data+wrangling+with+python
+- [Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/)
 
 ## Learning Data Modelling
 
